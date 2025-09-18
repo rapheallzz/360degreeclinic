@@ -2498,10 +2498,10 @@ img.vert-move {
     background-size: cover;
 }
 
-/* .banner_area.banner_one2{
-    background:url(../img/banner/banner2.jpg) no-repeat scroll center center;
+.banner_area.banner_one2{
+    background:url(../img/banner/banner22.jpg) no-repeat scroll center center;
     background-size: cover;
-} */
+}
 
 .banner_area:before {
     content: "";
