@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staff Profile | [Your Company]</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Google Fonts: Montserrat and Playfair Display -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="dark-mode">
+    <!-- Theme Toggle -->
+    <div class="theme-toggle">
+        <input type="checkbox" id="theme-switch" class="theme-switch">
+        <label for="theme-switch" class="theme-icon">
+            <i class="fas fa-moon"></i>
+            <i class="fas fa-sun"></i>
+        </label>
+    </div>
+
+    <!-- Hamburger Trigger and Sidebar -->
+    <input type="checkbox" id="menu-toggle" class="menu-toggle">
+    <label for="menu-toggle" class="menu-trigger">
+        <i class="fas fa-bars"></i>
+    </label>
+
+    <nav class="sidebar">
+        <div class="logo">
+            <img src="company-logo.png" alt="Company Logo" class="logo-img">
+        </div>
+        <ul class="nav-menu">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#works">Works</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="hero-section">
+            <div class="profile-container">
+                <div class="profile-photo">
+                    <img src="staff-photo.jpg" alt="Staff Photo" class="profile-img">
+                    <div class="photo-overlay"></div>
+                </div>
+                <div class="profile-intro">
+                    <h1>Jane Doe</h1>
+                    <p class="job-title">Senior Software Engineer</p>
+                    <div class="social-links">
+                        <a href="https://twitter.com/janedoe" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a href="https://linkedin.com/in/janedoe" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://github.com/janedoe" target="_blank"><i class="fab fa-github"></i></a>
+                        <a href="https://facebook.com/janedoe" target="_blank"><i class="fab fa-facebook"></i></a>
+                        <a href="https://instagram.com/janedoe" target="_blank"><i class="fab fa-instagram"></i></a>
+                    </div>
+                    <div class="contact-links">
+                        <a href="https://wa.me/1234567890" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                        <a href="mailto:jane.doe@example.com"><i class="fas fa-envelope"></i></a>
+                        <a href="tel:+1234567890"><i class="fas fa-phone"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section class="about-section">
+            <div class="info-block about-block">
+                <h2>About Me</h2>
+                <p>Innovative and detail-oriented engineer with a passion for building scalable solutions that transform businesses. With over a decade of experience in the tech industry, I specialize in creating robust systems and mentoring junior developers to achieve excellence.</p>
+            </div>
+        </section>
+
+        <section class="details-section">
+            <div class="info-block expandable">
+                <h2>Qualifications</h2>
+                <ul class="content-list">
+                    <li>M.S. in Computer Science, XYZ University</li>
+                    <li>B.S. in Software Engineering, ABC College</li>
+                    <li>Certificate in Advanced Algorithms, Online Academy</li>
+                    <li>Ph.D. in Machine Learning, DEF Institute (In Progress)</li>
+                </ul>
+                <button class="view-more">View More</button>
+            </div>
+            <div class="info-block expandable">
+                <h2>Experience</h2>
+                <ul class="content-list">
+                    <li>Senior Developer at TechCorp (2018-Present)</li>
+                    <li>Junior Developer at InnoSoft (2015-2018)</li>
+                    <li>Freelance Consultant, Various Clients (2013-2015)</li>
+                    <li>Intern at CodeWorks (2012-2013)</li>
+                </ul>
+                <button class="view-more">View More</button>
+            </div>
+            <div class="info-block expandable">
+                <h2>Certifications</h2>
+                <ul class="content-list">
+                    <li>AWS Certified Solutions Architect</li>
+                    <li>Google Professional Data Engineer</li>
+                    <li>Microsoft Azure Fundamentals</li>
+                    <li>Cisco Certified Network Associate</li>
+                </ul>
+                <button class="view-more">View More</button>
+            </div>
+        </section>
+    </main>
+
+    <!-- Sticky WhatsApp Icon -->
+    <a href="https://wa.me/1234567890" target="_blank" class="whatsapp-float">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>© <span id="current-year"></span> [Your Company]. All rights reserved.</p>
+    </footer>
+
+    <!-- Scripts -->
+    <script>
+        // Current Year
+        document.getElementById("current-year").textContent = new Date().getFullYear();
+
+        // Theme Toggle
+        const themeSwitch = document.getElementById("theme-switch");
+        themeSwitch.addEventListener("change", () => {
+            document.body.classList.toggle("dark-mode");
+            document.body.classList.toggle("light-mode");
+        });
+
+        // View More Toggle
+        document.querySelectorAll(".view-more").forEach(button => {
+            button.addEventListener("click", () => {
+                const block = button.closest(".expandable");
+                block.classList.toggle("expanded");
+                button.textContent = block.classList.contains("expanded") ? "View Less" : "View More";
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+[
+    {
+        "element": "body-bg-dark",
+        "color_value": "#222325"
+    },
+    {
+        "element": "body-bg-light",
+        "color_value": "#f5f6f5"
+    },
+    {
+        "element": "accent-color",
+        "color_value": "#a037e6"
+    },
+    {
+        "element": "text-color-dark",
+        "color_value": "#ffffff"
+    },
+    {
+        "element": "text-color-light",
+        "color_value": "#333333"
+    }
+]

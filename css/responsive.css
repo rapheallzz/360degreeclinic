@@ -1,0 +1,416 @@
+
+
+@media (max-width: 1400px){
+    .main_slider_area .rev_slider .tp-leftarrow {
+        left: -35px !important;
+    }
+    .main_slider_area .rev_slider .tp-rightarrow {
+        left: 103% !important;
+    }
+    .footer_up .form-container .btn-full {
+        padding: 11px 40px;
+    }
+}
+@media (max-width: 1300px){
+    .slider_area .carousel-captions .heading {
+        font-size: 40px;
+     }
+     .testimonial-section {
+        padding-top: 80px;
+     }
+     /*1300.............testimonial-section-End............*/
+
+}
+
+@media (max-width:1200px){
+    /*............1200slider_area mr_top-Start............*/
+    /*.slider_area .carousel-captions.caption-align-center {
+        width: 60%;
+    }*/
+    .slider_area .carousel-captions .heading {
+        font-size: 35px;
+    }
+    .slider_area .carousel-captions .heading {
+        line-height: 38px;
+    }
+    .slider_area .parent-btn {
+        margin-top: 30px;
+    }
+    /*............1200slider_area mr_top-End............*/
+    
+
+}
+
+/* small computer device */
+
+@media (max-width: 1024px){
+    h1{
+        font-size: 35px;
+    }
+    p{
+        font-size: 15px;
+    }
+    .pt-sm-120{
+        padding-top:120px important;
+    }
+
+     .service-title h2{
+        font-size: 16px;
+    }
+
+    .ex-year h1{
+        font-size: 65px;
+    }
+    .experince-box h3{
+        font-size: 16px;
+    }
+    .dental-services .item-block .con h5, .dental-services .item-block .con h5 a{
+        font-size: 24px;
+    }
+    .testimonial-block-outer .border-box{
+        width: 325px;
+    }
+    /*--------- doctor-about --------*/
+    .bg-back{
+        width: auto;;
+        height: auto;
+    }
+    .profile-content{
+        padding-left: 50px;
+        padding-top: 0;
+    }
+     /*--------- End doctor-about --------*/
+
+
+    .insurance-area h5{
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+     .insurance-area .list-area ul li{
+        font-size: 15px;
+     }
+     .after-before-gallery:before{
+        height: 738px;
+     }
+     .add-banner-inner:before{
+        margin-top: 199px;
+        left: -57px;
+     }
+
+
+
+
+
+     /* Start Blog Section*/
+
+     #blog{
+        padding: 100px 0;
+     }
+     #blog .img-box img{
+        margin: auto;
+        display: flex;
+     }
+     #blog .cnt-col{
+        width: auto;
+     }
+
+    /*-------------------- Start Footer ------------------*/
+    .footer-widget .opening-hour span{
+        margin-left: 160px;
+    }
+
+   
+
+}
+
+/* tablet device */
+
+@media (max-width: 992px){
+
+    offset-xs-0{
+        margin: 0;
+    }
+    .pr-md{
+        padding-right: 15px;
+    }
+    .pr-15{
+        padding-right: 15px !important;
+    }
+    .pl-15{
+        padding-left: 15px !important;
+    }
+    .br-0{
+        border-right: 0 !important;
+    }
+
+
+    .offset-xs-0{
+        margin-left: 0;
+    }
+    .brd md-r{
+        border-right: 0;
+    }
+    .mr-center-sm{
+        margin: 20px auto 0 !important;
+    }
+     .mr-center-sm-line{
+        margin: -3px auto 0 !important;
+    }
+    .text-center-sm{
+        text-align: center !important;
+    }
+    .color-white-sm{
+        color: #FFF !important;
+    
+    }
+    .bg-color-white-sc{
+        background-color: #FFF !important;
+    }
+
+    /* 992............Banner-End............*/
+
+
+    .sec-title h1{
+        font-size: 40px;
+    }
+    .services .image-box .text h2{
+        margin-bottom: 10px;
+        letter-spacing: 0;
+    }
+
+    .ex-year h1 {
+        font-size: 130px;
+    }
+    .experince-box h3 {
+        font-size: 20px;
+    }
+    .aboutcom .pl-50 {
+        padding-left: 15px;
+    }
+    .aboutcom .img-box-2{
+        margin-bottom: 30px;
+    }
+
+    .testimonial-area.pt-120{
+        padding-top: 120px !important;
+    }
+    .testimonial-area:before{
+        background-color: transparent;
+    }
+    .testimonial-block-outer .border-box {
+        width: 86px;
+    }
+    .testimonial-block-outer .client-img{
+        border-radius: 143px;
+    }
+    .insurance-area .img-block{
+        margin-top: 30px;
+    }
+    .after-before-gallery:before {
+        height: 588px;
+    }
+
+    .why-choose-us .pl-50 {
+        padding-left: 30px;
+    }
+    .why-choose-us .sm-title {
+        padding-top: 30px;
+    }
+    .add-banner {
+        text-align: center;
+    }
+    .add-banner-inner{
+        height: auto;
+        padding: 50px 142px;
+    }
+    .add-banner-inner:before {
+        margin-top: 20px;
+        left: -57px;
+    }
+    .add-banner-inner .pl-80{
+        padding-left: 0;
+    }
+    .add-banner-inner .title {
+        padding: 0px 0 0 0px;
+    }
+    .add-banner-inner .title h3{
+        text-align: center;
+    }
+    .add-inner-circle{
+        display: none;
+    }
+    .connect-info .text {
+        padding-right: 0px;
+    }
+    .newsblog-conents{
+        padding: 25px 20px;
+    }
+    .blog-auth-area{
+        padding: 10px 0;
+    }
+    .blog-auth-area a{
+        font-size: 14px;
+        font-weight: normal;
+        padding-right: 10px;
+        margin-right: 8px;
+    }
+    .newsblog-conents a h3{
+        font-size: 14px;
+    }
+        
+
+
+}
+@media only screen and (min-width: 320px) and (max-width: 735px){
+
+
+    .pr-0, .px-0 {
+        padding-right: 15px!important;
+    }
+    .prl-0 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .pl-0{
+        padding-left: 15px !important;
+    }
+    offset-xs-0{
+        margin: 0;
+    }
+    .pl-50{
+        padding-left: 15px !important;
+    }
+    .mt-mob-d-30{
+        margin-top: 30px;
+    }
+
+    h1{
+        font-size: 35px !important;
+    }
+    p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+   .pr-xs-none{
+        padding-right: 0;
+    }
+    .mb-xs-none{
+        margin-bottom: 0 !important;
+    }
+    /*---------- Start section tilte -----------------*/
+    .title-text{
+        margin-top: 10px;
+    }
+    /*---------- End section tilte -------------------*/
+
+
+    .sec-text{
+        width: auto;
+    }
+    .profile-content{
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    #clients .owl-carousel {
+        padding: 20px 0px;
+        position: relative;
+    }
+    #clients .owl-next{
+        top: 96%;
+    right: 129px;
+    }
+    #clients .owl-prev{
+        top: 96%;
+        left: 122px;
+    }
+    .after-before-gallery:before {
+        height: 443px;
+    }
+    .add-banner-inner {
+        height: auto;
+        padding: 50px 48px;
+    }
+    .add-banner-inner:before{
+        display: none;
+    }
+
+
+    .aboutcom .img-box-2 {
+        margin-bottom: 30px;
+    }
+    .core-value a.button-right{
+        margin: 0 auto 20px auto;
+        display: table;
+        float: none;
+    }
+    .feature-point .single-block{
+        border-right: none;
+    }
+    .core-value .ltalk h1{
+        margin-bottom: 20px;
+    }
+    .faq-img{
+        margin: auto auto 30px auto;
+        display: table;
+    }
+
+
+
+
+
+
+
+
+
+    .testimonial-area {
+        padding: 120px 0;
+    }
+    .testimonial-area .testimonial-inner{
+        padding: 0;
+    }
+   
+    .testimonial-block-outer{
+        padding: 30px;
+    }
+    .testimonial-block-outer .client-img{
+        float: none;
+    }
+    .testimonial-block-outer .text-box {
+        width: 100%;
+        padding: 30px 0 0 0px;
+    }
+    .testimonial-area .owl-nav .owl-prev {
+        margin-right: 0;
+        left: 58%;
+        right: inherit;
+        top: 93%;
+        width: 70px;
+        height: 70px;
+        line-height: 46px;
+    }
+    .testimonial-area .owl-nav .owl-next{
+        top: 93%;
+        width: 70px;
+        height: 70px;
+        line-height: 46px;
+    }
+    .project-one-img:before{
+        display: none;
+    }
+
+        /*............Start video Section............*/
+
+
+    /*----------- End book-consul -----------------*/
+
+    .blog-section{
+        
+    }
+    .newsblog-group{
+        margin-bottom: 20px;
+    }
+
+
+
+}

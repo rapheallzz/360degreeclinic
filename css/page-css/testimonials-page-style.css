@@ -1,0 +1,22 @@
+/* Start Testimonial Page Css */
+
+
+
+.testimonial-page{
+  width:100%;
+  float: left;
+  padding: 100px 0px 80px;
+  background-color: #FFF;
+
+}
+.testimonial-video {
+    background: url(../img/resource/client-video-1.html) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.testimonial-page .content-center{
+    display: table-cell;
+    margin: auto;
+    vertical-align: middle;
+}

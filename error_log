@@ -1,0 +1,288 @@
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "surname" in /home1/degreecl/public_html/appointment.php on line 6
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 6
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "firstname" in /home1/degreecl/public_html/appointment.php on line 7
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 7
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "dob" in /home1/degreecl/public_html/appointment.php on line 8
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 8
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "address" in /home1/degreecl/public_html/appointment.php on line 9
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 9
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/appointment.php on line 10
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 10
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/appointment.php on line 11
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 11
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "bloodgroup" in /home1/degreecl/public_html/appointment.php on line 12
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 12
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "genotype" in /home1/degreecl/public_html/appointment.php on line 13
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 13
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "maritalstatus" in /home1/degreecl/public_html/appointment.php on line 14
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 14
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "nationality" in /home1/degreecl/public_html/appointment.php on line 15
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 15
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "stateorigin" in /home1/degreecl/public_html/appointment.php on line 16
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 16
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "lga" in /home1/degreecl/public_html/appointment.php on line 17
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 17
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "nextofkin" in /home1/degreecl/public_html/appointment.php on line 18
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 18
+[04-Aug-2025 18:04:03 UTC] PHP Warning:  Undefined array key "service" in /home1/degreecl/public_html/appointment.php on line 19
+[04-Aug-2025 18:04:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 19
+[05-Aug-2025 16:48:44 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[05-Aug-2025 16:48:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[05-Aug-2025 16:48:44 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[05-Aug-2025 16:48:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[05-Aug-2025 16:48:44 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[05-Aug-2025 16:48:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[05-Aug-2025 16:48:44 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[05-Aug-2025 16:48:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[05-Aug-2025 16:48:44 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[05-Aug-2025 16:48:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[11-Aug-2025 14:57:46 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[11-Aug-2025 14:57:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[11-Aug-2025 14:57:46 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[11-Aug-2025 14:57:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[11-Aug-2025 14:57:46 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[11-Aug-2025 14:57:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[11-Aug-2025 14:57:46 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[11-Aug-2025 14:57:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[11-Aug-2025 14:57:46 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[11-Aug-2025 14:57:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "surname" in /home1/degreecl/public_html/appointment.php on line 6
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 6
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "firstname" in /home1/degreecl/public_html/appointment.php on line 7
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 7
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "dob" in /home1/degreecl/public_html/appointment.php on line 8
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 8
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "address" in /home1/degreecl/public_html/appointment.php on line 9
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 9
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/appointment.php on line 10
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 10
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/appointment.php on line 11
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 11
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "bloodgroup" in /home1/degreecl/public_html/appointment.php on line 12
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 12
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "genotype" in /home1/degreecl/public_html/appointment.php on line 13
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 13
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "maritalstatus" in /home1/degreecl/public_html/appointment.php on line 14
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 14
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "nationality" in /home1/degreecl/public_html/appointment.php on line 15
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 15
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "stateorigin" in /home1/degreecl/public_html/appointment.php on line 16
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 16
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "lga" in /home1/degreecl/public_html/appointment.php on line 17
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 17
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "nextofkin" in /home1/degreecl/public_html/appointment.php on line 18
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 18
+[11-Aug-2025 17:10:33 UTC] PHP Warning:  Undefined array key "service" in /home1/degreecl/public_html/appointment.php on line 19
+[11-Aug-2025 17:10:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 19
+[12-Aug-2025 08:49:35 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[12-Aug-2025 08:49:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[12-Aug-2025 08:49:35 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[12-Aug-2025 08:49:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[12-Aug-2025 08:49:35 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[12-Aug-2025 08:49:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[12-Aug-2025 08:49:35 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[12-Aug-2025 08:49:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[12-Aug-2025 08:49:35 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[12-Aug-2025 08:49:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "surname" in /home1/degreecl/public_html/appointment.php on line 6
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 6
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "firstname" in /home1/degreecl/public_html/appointment.php on line 7
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 7
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "dob" in /home1/degreecl/public_html/appointment.php on line 8
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 8
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "address" in /home1/degreecl/public_html/appointment.php on line 9
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 9
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/appointment.php on line 10
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 10
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/appointment.php on line 11
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 11
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "bloodgroup" in /home1/degreecl/public_html/appointment.php on line 12
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 12
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "genotype" in /home1/degreecl/public_html/appointment.php on line 13
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 13
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "maritalstatus" in /home1/degreecl/public_html/appointment.php on line 14
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 14
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "nationality" in /home1/degreecl/public_html/appointment.php on line 15
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 15
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "stateorigin" in /home1/degreecl/public_html/appointment.php on line 16
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 16
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "lga" in /home1/degreecl/public_html/appointment.php on line 17
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 17
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "nextofkin" in /home1/degreecl/public_html/appointment.php on line 18
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 18
+[12-Aug-2025 18:17:09 UTC] PHP Warning:  Undefined array key "service" in /home1/degreecl/public_html/appointment.php on line 19
+[12-Aug-2025 18:17:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 19
+[17-Aug-2025 19:49:02 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[17-Aug-2025 19:49:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[17-Aug-2025 19:49:02 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[17-Aug-2025 19:49:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[17-Aug-2025 19:49:02 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[17-Aug-2025 19:49:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[17-Aug-2025 19:49:02 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[17-Aug-2025 19:49:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[17-Aug-2025 19:49:02 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[17-Aug-2025 19:49:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[17-Aug-2025 21:18:52 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[17-Aug-2025 21:18:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[17-Aug-2025 21:18:52 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[17-Aug-2025 21:18:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[17-Aug-2025 21:18:52 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[17-Aug-2025 21:18:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[17-Aug-2025 21:18:52 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[17-Aug-2025 21:18:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[17-Aug-2025 21:18:52 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[17-Aug-2025 21:18:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "surname" in /home1/degreecl/public_html/appointment.php on line 6
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 6
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "firstname" in /home1/degreecl/public_html/appointment.php on line 7
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 7
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "dob" in /home1/degreecl/public_html/appointment.php on line 8
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 8
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "address" in /home1/degreecl/public_html/appointment.php on line 9
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 9
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/appointment.php on line 10
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 10
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/appointment.php on line 11
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 11
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "bloodgroup" in /home1/degreecl/public_html/appointment.php on line 12
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 12
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "genotype" in /home1/degreecl/public_html/appointment.php on line 13
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 13
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "maritalstatus" in /home1/degreecl/public_html/appointment.php on line 14
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 14
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "nationality" in /home1/degreecl/public_html/appointment.php on line 15
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 15
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "stateorigin" in /home1/degreecl/public_html/appointment.php on line 16
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 16
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "lga" in /home1/degreecl/public_html/appointment.php on line 17
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 17
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "nextofkin" in /home1/degreecl/public_html/appointment.php on line 18
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 18
+[18-Aug-2025 22:38:31 UTC] PHP Warning:  Undefined array key "service" in /home1/degreecl/public_html/appointment.php on line 19
+[18-Aug-2025 22:38:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 19
+[21-Aug-2025 23:35:07 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[21-Aug-2025 23:35:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[21-Aug-2025 23:35:07 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[21-Aug-2025 23:35:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[21-Aug-2025 23:35:07 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[21-Aug-2025 23:35:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[21-Aug-2025 23:35:07 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[21-Aug-2025 23:35:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[21-Aug-2025 23:35:07 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[21-Aug-2025 23:35:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[23-Aug-2025 07:09:21 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[23-Aug-2025 07:09:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[23-Aug-2025 07:09:21 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[23-Aug-2025 07:09:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[23-Aug-2025 07:09:21 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[23-Aug-2025 07:09:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[23-Aug-2025 07:09:21 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[23-Aug-2025 07:09:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[23-Aug-2025 07:09:21 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[23-Aug-2025 07:09:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[23-Aug-2025 15:37:29 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[23-Aug-2025 15:37:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[23-Aug-2025 15:37:29 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[23-Aug-2025 15:37:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[23-Aug-2025 15:37:29 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[23-Aug-2025 15:37:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[23-Aug-2025 15:37:29 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[23-Aug-2025 15:37:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[23-Aug-2025 15:37:29 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[23-Aug-2025 15:37:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "surname" in /home1/degreecl/public_html/appointment.php on line 6
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 6
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "firstname" in /home1/degreecl/public_html/appointment.php on line 7
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 7
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "dob" in /home1/degreecl/public_html/appointment.php on line 8
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 8
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "address" in /home1/degreecl/public_html/appointment.php on line 9
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 9
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/appointment.php on line 10
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 10
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/appointment.php on line 11
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 11
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "bloodgroup" in /home1/degreecl/public_html/appointment.php on line 12
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 12
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "genotype" in /home1/degreecl/public_html/appointment.php on line 13
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 13
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "maritalstatus" in /home1/degreecl/public_html/appointment.php on line 14
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 14
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "nationality" in /home1/degreecl/public_html/appointment.php on line 15
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 15
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "stateorigin" in /home1/degreecl/public_html/appointment.php on line 16
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 16
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "lga" in /home1/degreecl/public_html/appointment.php on line 17
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 17
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "nextofkin" in /home1/degreecl/public_html/appointment.php on line 18
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 18
+[25-Aug-2025 08:52:36 UTC] PHP Warning:  Undefined array key "service" in /home1/degreecl/public_html/appointment.php on line 19
+[25-Aug-2025 08:52:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 19
+[28-Aug-2025 03:29:12 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[28-Aug-2025 03:29:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[28-Aug-2025 03:29:12 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[28-Aug-2025 03:29:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[28-Aug-2025 03:29:12 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[28-Aug-2025 03:29:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[28-Aug-2025 03:29:12 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[28-Aug-2025 03:29:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[28-Aug-2025 03:29:12 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[28-Aug-2025 03:29:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[29-Aug-2025 23:00:05 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[29-Aug-2025 23:00:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[29-Aug-2025 23:00:05 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[29-Aug-2025 23:00:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[29-Aug-2025 23:00:05 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[29-Aug-2025 23:00:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[29-Aug-2025 23:00:05 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[29-Aug-2025 23:00:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[29-Aug-2025 23:00:05 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[29-Aug-2025 23:00:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[03-Sep-2025 08:01:42 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[03-Sep-2025 08:01:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[03-Sep-2025 08:01:42 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[03-Sep-2025 08:01:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[03-Sep-2025 08:01:42 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[03-Sep-2025 08:01:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[03-Sep-2025 08:01:42 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[03-Sep-2025 08:01:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[03-Sep-2025 08:01:42 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[03-Sep-2025 08:01:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "surname" in /home1/degreecl/public_html/appointment.php on line 6
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 6
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "firstname" in /home1/degreecl/public_html/appointment.php on line 7
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 7
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "dob" in /home1/degreecl/public_html/appointment.php on line 8
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 8
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "address" in /home1/degreecl/public_html/appointment.php on line 9
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 9
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/appointment.php on line 10
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 10
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/appointment.php on line 11
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 11
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "bloodgroup" in /home1/degreecl/public_html/appointment.php on line 12
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 12
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "genotype" in /home1/degreecl/public_html/appointment.php on line 13
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 13
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "maritalstatus" in /home1/degreecl/public_html/appointment.php on line 14
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 14
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "nationality" in /home1/degreecl/public_html/appointment.php on line 15
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 15
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "stateorigin" in /home1/degreecl/public_html/appointment.php on line 16
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 16
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "lga" in /home1/degreecl/public_html/appointment.php on line 17
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 17
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "nextofkin" in /home1/degreecl/public_html/appointment.php on line 18
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 18
+[10-Sep-2025 17:08:25 UTC] PHP Warning:  Undefined array key "service" in /home1/degreecl/public_html/appointment.php on line 19
+[10-Sep-2025 17:08:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/appointment.php on line 19
+[15-Sep-2025 22:53:23 UTC] PHP Warning:  Undefined array key "name" in /home1/degreecl/public_html/mail.php on line 6
+[15-Sep-2025 22:53:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 6
+[15-Sep-2025 22:53:23 UTC] PHP Warning:  Undefined array key "email" in /home1/degreecl/public_html/mail.php on line 7
+[15-Sep-2025 22:53:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 7
+[15-Sep-2025 22:53:23 UTC] PHP Warning:  Undefined array key "phone" in /home1/degreecl/public_html/mail.php on line 8
+[15-Sep-2025 22:53:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 8
+[15-Sep-2025 22:53:23 UTC] PHP Warning:  Undefined array key "subject" in /home1/degreecl/public_html/mail.php on line 9
+[15-Sep-2025 22:53:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 9
+[15-Sep-2025 22:53:23 UTC] PHP Warning:  Undefined array key "message" in /home1/degreecl/public_html/mail.php on line 10
+[15-Sep-2025 22:53:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/degreecl/public_html/mail.php on line 10
